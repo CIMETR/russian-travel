@@ -1,0 +1,18 @@
+.language{
+  margin: 0;
+  width: 78px;
+  padding-top: 18px;
+  padding-bottom: 6px;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
+@media screen and (max-width: 1023px) {
+  .language{
+    width: 62px;
+  }
+}
