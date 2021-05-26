@@ -38,6 +38,6 @@
   }
 
   .place:nth-child(1){
-    display: none;
+    margin-top: 50px;
   }
 }
