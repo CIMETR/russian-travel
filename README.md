@@ -18,4 +18,4 @@
 * Улучшить навык работы с графически редактором Figma
 
 ### Ссылка на проект:
-https://cimetr.github.io/russian-travel/index.html
+[Проект](https://cimetr.github.io/russian-travel/index.html)
